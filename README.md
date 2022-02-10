@@ -17,12 +17,10 @@
 </p>
  -->
 ## GitHub Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Chimi-S&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chimi-S&show_icons=true&theme=vue-dark">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimi-S&show_icons=true&theme=vue-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chimi-S&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chimi-S&show_icons=true&theme=vue-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimi-S&show_icons=true&theme=vue-dark">
   
- </p>
  
  
 
