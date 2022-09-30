@@ -2,7 +2,7 @@
 
 - 🎓 I graduated in 2019 from Jigme Namgyel Engineering College 🔗https://www.jnec.edu.bt/en/.
 - 💻 I am familiar with **C, HTML, CSS, JavaScript, php, laravel, and vuejs.**
-- 🔭 I am currently working on ERP.
+- 🔭 I am currently working on **Enterprise Resource Planning (ERP)** and **Education Management Information System (EMIS)**.
 - 📝 I am currently learning **Java**, **Microservices Architecture**, and **DevOps**
 
 ## Find me on:
